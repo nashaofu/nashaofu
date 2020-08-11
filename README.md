@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 😄 欢迎关注我的微信公众号!
 
-![微信公众号](./mp-qrcode.jpg)
+![微信公众号](https://github.com/nashaofu/nashaofu/raw/master/mp-qrcode.jpg)
 
 ### Links
 
