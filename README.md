@@ -5,7 +5,6 @@
     <img src="https://img.shields.io/github/followers/nashaofu"/>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=nashaofu.nashaofu.README.md" />
   </p>
-<!--   <p><img src="https://github-readme-stats.vercel.app/api?username=nashaofu&show_icons=true&hide_border=true"/></p> -->
 </div>
 
 <!--
@@ -31,12 +30,12 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nashaofu&hide_border=true)
 
+### 微信公众号
+
+😄 欢迎关注我的微信公众号!
+
+![微信公众号](./mp-qrcode.jpg)
+
 ### Links
 
 - [xkloveme](https://github.com/xkloveme)
-
-### 微信公众号
-
-欢迎关注我的微信公众号
-
-![微信公众号](./mp-qrcode.png)
