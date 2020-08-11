@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 
 欢迎关注我的微信公众号
 
-![微信公众号](./mp-qrcode)
+![微信公众号](./mp-qrcode.png)
