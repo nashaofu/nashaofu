@@ -26,15 +26,12 @@ Here are some ideas to get you started:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nashaofu&show_icons=true&hide_border=true)
 
-### Languages
+### WeChat Official Accounts And Languages
 
+😄 Welcome to follow my WeChat official account!
+
+![WeChat Official Accounts](https://github.com/nashaofu/nashaofu/raw/master/mp-qrcode.jpg)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nashaofu&hide_border=true)
-
-### 微信公众号
-
-😄 欢迎关注我的微信公众号!
-
-![微信公众号](https://github.com/nashaofu/nashaofu/raw/master/mp-qrcode.jpg)
 
 ### Links
 
