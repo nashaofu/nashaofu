@@ -1,5 +1,5 @@
 <div align="center">
-  <p><img src="https://avatars1.githubusercontent.com/u/19303058" width="200" /></p>
+  <p><img src="https://avatars0.githubusercontent.com/u/19303058" width="200" /></p>
   <p>Hi, I'm nashaofu👋, Web developer from Hangzhou, China.</p>
   <p>
     <img src="https://img.shields.io/github/followers/nashaofu"/>
