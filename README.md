@@ -7,6 +7,7 @@
   </p>
 </div>
 
+懒惰的人总是被世界推动着做事，在被动中遭受着“不得不”的折磨，在空虚中享受着自欺欺人的舒适。
 <!--
 **nashaofu/nashaofu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
