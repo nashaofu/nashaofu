@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <div align="center">
   <br />
   <p>
-    <img src="https://github.com/nashaofu/nashaofu/raw/master/mp-qrcode.jpg" width="300" />
+    <img src="mp-qrcode.jpg" width="300" />
   </p>
   <h3>😄 欢迎关注我的微信公众号！</h3>
 </div>

@@ -7,7 +7,7 @@
           width: 200px;
           height: 200px;
           border-radius: 50%;
-          animation: rotate 59s cubic-bezier(0.34, 0, 0.84, 1) 1s;
+          animation: rotate 60s cubic-bezier(0.34, 0, 0.84, 1) 1s;
           transition-property: all;
         }
       
@@ -16,7 +16,7 @@
             transform: rotate(0turn);
           }
           to {
-            transform: rotate(333turn);
+            transform: rotate(360turn);
           }
         }
       </style>      
