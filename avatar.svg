@@ -16,7 +16,7 @@
           transition-timing-function: cubic-bezier(0.34, 0, 0.84, 1);
         }
       </style>
-      <img class="avatar" src="https://avatars0.githubusercontent.com/u/19303058" />
+      <img class="avatar" src="avatar.png" />
     </div>
   </foreignObject>
 </svg>
