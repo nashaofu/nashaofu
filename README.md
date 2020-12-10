@@ -1,5 +1,5 @@
 <div align="center">
-  <p><img src="avatar.svg" width="200" height="200"></p>
+  <p><img src="avatar.svg" height="200"></p>
   <p>嗨！ 我是 nashaofu👋, 一个在中国杭州的前端开发工程师。</p>
   <p>懒惰的人总是被世界推动着做事，在被动中遭受着“不得不”的折磨，在空虚中享受着自欺欺人的舒适。</p>
   <p>
