@@ -16,7 +16,7 @@
             transform: rotate(0turn);
           }
           to {
-            transform: rotate(666turn);
+            transform: rotate(333turn);
           }
         }
       </style>      
