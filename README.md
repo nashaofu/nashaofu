@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 ## 字节跳动内推
 
-打个广告，挣点内推奖金，社招内推[请点这里](https://job.toutiao.com/s/eJT84ta)，校招内推[请点这里](https://jobs.toutiao.com/s/eJTe3L1)。也可以在 GitHub 上联系我或者扫描西方二维码。
+打个广告，挣点内推奖金🤪，社招内推[请点这里](https://job.toutiao.com/s/eJT84ta)，校招内推[请点这里](https://jobs.toutiao.com/s/eJTe3L1)。你也可以扫描下方二维码，或者在本仓库的[issues](https://github.com/nashaofu/nashaofu/issues)中留言联系我！
 
 <div align="center">
   <table>
