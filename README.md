@@ -53,6 +53,31 @@ Here are some ideas to get you started:
   <h3>😄 欢迎关注我的微信公众号！</h3>
 </div>
 
+## 字节跳动内推
+
+打个广告，挣点内推奖金，社招内推[请点这里](https://job.toutiao.com/s/eJT84ta)，校招内推[请点这里](https://jobs.toutiao.com/s/eJTe3L1)。也可以在 GitHub 上联系我或者扫描西方二维码。
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>社招内推</th>
+        <th>校招内推</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <img src="内推二维码/社招内推.png" width="300" />
+        </td>
+        <td>
+          <img src="内推二维码/校招内推.png" width="300" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 ### 友情链接
 
 - [xkloveme](https://github.com/xkloveme)
