@@ -1,7 +1,5 @@
 <div align="center">
-  <p><img src="avatar.svg" height="200" /></p>
-  <p>嗨！ 我是 nashaofu👋, 一个在中国杭州的前端开发工程师。</p>
-  <p>懒惰的人总是被世界推动着做事，在被动中遭受着“不得不”的折磨，在空虚中享受着自欺欺人的舒适。</p>
+  <p>Stay hungry. Stay foolish.</p>
   <p>
     <img src="https://img.shields.io/github/followers/nashaofu" />
     <img src="https://img.shields.io/github/stars/nashaofu">
@@ -34,7 +32,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 开源项目
+### Projects
 
 - [dingtalk](https://github.com/nashaofu/dingtalk)，基于网页版钉钉封装的支持 Windows、Linux、Mac 的桌面应用。
 - [screenshots](https://github.com/nashaofu/screenshots), A screenshot plugin for electron.
