@@ -39,6 +39,9 @@ Here are some ideas to get you started:
 - [dingtalk](https://github.com/nashaofu/dingtalk)，基于网页版钉钉封装的支持 Windows、Linux、Mac 的桌面应用。
 - [screenshots](https://github.com/nashaofu/screenshots), A screenshot plugin for electron.
 - [ydebugger](https://github.com/nashaofu/ydebugger)，A remote webapp of the Chrome DevTools, you can develop and debug front-end pages on iPad Browser with GitHub codespaces or code-server.
+- [screenshots-rs](https://github.com/nashaofu/screenshots-rs), A rust A cross-platform screenshots library
+- [node-screenshots](https://github.com/nashaofu/node-screenshots), A nodejs screenshots library for Mac/Windows/Linux based on napi-rs
+- [display-info](https://github.com/nashaofu/display-info), A rust cross-platform get display info
 - [estatic](https://github.com/nashaofu/estatic)，A express static file server
 - [electron-dev-webpack-plugin](https://github.com/nashaofu/electron-dev-webpack-plugin)，electron 的 webpack 主进程开发自动重启应用的插件，当主进程代码变更之后，就会结束当前主进程，然后重新启动一个新的主进程，方便 electron 开发。
 - [koa-parser](https://github.com/nashaofu/koa-parser)，Koa 请求体解析中间件 koa-parser，支持解析 json、form-data、form-urlencoded、text/plain 解析。
