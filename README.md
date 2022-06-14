@@ -2,18 +2,22 @@
   <p>Stay hungry. Stay foolish.</p>
   <p>
     <img src="https://img.shields.io/github/followers/nashaofu" />
-    <img src="https://img.shields.io/github/stars/nashaofu">
+    <img src="https://img.shields.io/github/stars/nashaofu" />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=nashaofu.nashaofu.README.md" />
   </p>
   <p>
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=nashaofu&theme=dark&show_icons=true"
-      height="165"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashaofu&layout=compact&theme=dark"
-      height="165"
-    />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img
+        width="49%"
+        src="https://github-readme-stats.vercel.app/api?username=nashaofu&theme=shades-of-purple&show_icons=true&hide_border=true"
+      />
+    </a>
+    <a href="https://git.io/streak-stats">
+      <img
+        width="49%"
+        src="https://github-readme-streak-stats.herokuapp.com?user=nashaofu&theme=shades-of-purple&hide_border=true"
+      />
+    </a>
   </p>
 </div>
 
