@@ -59,7 +59,3 @@ Here are some ideas to get you started:
   </p>
   <h3>😄 欢迎关注我的微信公众号！</h3>
 </div>
-
-### 友情链接
-
-- [xkloveme](https://github.com/xkloveme)
