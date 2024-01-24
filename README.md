@@ -38,10 +38,10 @@ Here are some ideas to get you started:
 
 ### Projects
 
+- [xcap](https://github.com/nashaofu/xcap), A cross-platform screenshots library for MacOS、Windows、Linux(X11、wayland).
 - [dingtalk](https://github.com/nashaofu/dingtalk)，基于网页版钉钉封装的支持 Windows、Linux、Mac 的桌面应用。
 - [screenshots](https://github.com/nashaofu/screenshots), A screenshot plugin for electron.
 - [ydebugger](https://github.com/nashaofu/ydebugger)，A remote webapp of the Chrome DevTools, you can develop and debug front-end pages on iPad Browser with GitHub codespaces or code-server.
-- [screenshots-rs](https://github.com/nashaofu/screenshots-rs), A cross-platform screenshots library for MacOS、Windows、Linux(X11、wayland).
 - [node-screenshots](https://github.com/nashaofu/node-screenshots), A nodejs screenshots library for Mac/Windows/Linux based on napi-rs
 - [display-info](https://github.com/nashaofu/display-info), A rust cross-platform get display info
 - [estatic](https://github.com/nashaofu/estatic)，A express static file server
