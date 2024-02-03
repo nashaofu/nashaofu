@@ -42,7 +42,7 @@ https://afdian.net/a/nashaofu
 
 ### Projects
 
--   [xcap](https://github.com/nashaofu/xcap), A cross-platform screenshots library for MacOS、Windows、Linux(X11、wayland).
+-   [xcap](https://github.com/nashaofu/xcap), XCap is a cross-platform screen capture library written in Rust. It supports Linux (X11, Wayland), MacOS, and Windows. XCap supports screenshot and video recording (to be implemented).
 -   [dingtalk](https://github.com/nashaofu/dingtalk)，基于网页版钉钉封装的支持 Windows、Linux、Mac 的桌面应用。
 -   [screenshots](https://github.com/nashaofu/screenshots), A screenshot plugin for electron.
 -   [ydebugger](https://github.com/nashaofu/ydebugger)，A remote webapp of the Chrome DevTools, you can develop and debug front-end pages on iPad Browser with GitHub codespaces or code-server.
