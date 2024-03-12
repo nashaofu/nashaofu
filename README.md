@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ### Sponsors
 
-https://afdian.net/a/nashaofu
+https://github.com/sponsors/nashaofu
 
 ### Projects
 
