@@ -42,7 +42,7 @@ https://github.com/sponsors/nashaofu
 
 ### Projects
 
--   [Shell360](https://github.com/nashaofu/shell360), Shell360 is a cross-platform SSH client.
+-   [shell360](https://github.com/nashaofu/shell360), Shell360 is a cross-platform SSH client.
 -   [xcap](https://github.com/nashaofu/xcap), XCap is a cross-platform screen capture library written in Rust. It supports Linux (X11, Wayland), MacOS, and Windows. XCap supports screenshot and video recording (to be implemented).
 -   [dingtalk](https://github.com/nashaofu/dingtalk)，基于网页版钉钉封装的支持 Windows、Linux、Mac 的桌面应用。
 -   [screenshots](https://github.com/nashaofu/screenshots), A screenshot plugin for electron.
